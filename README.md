@@ -1,4 +1,7 @@
- var x= document.getElementById("location");
+  <p id="location"></p>
+        
+        <script>
+            var x= document.getElementById("location");
             var p1=2;
             var p2=3;
             var p3=4;  
